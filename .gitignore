@@ -4,8 +4,8 @@
 venv/
 .env
 
-# Tool Generated Reports (আপনার তৈরি করা PDF ফাইলগুলো আটকাবে)
-*.pdf
+# Tool Generated Reports 
+
 attack_report_*.pdf
 
 # OS generated files
