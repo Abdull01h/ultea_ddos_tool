@@ -1,0 +1,13 @@
+# Python environment
+*.py[cod]
+*$py.class
+venv/
+.env
+
+# Tool Generated Reports (আপনার তৈরি করা PDF ফাইলগুলো আটকাবে)
+*.pdf
+attack_report_*.pdf
+
+# OS generated files
+.DS_Store
+Thumbs.db
