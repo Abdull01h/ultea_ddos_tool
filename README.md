@@ -20,8 +20,8 @@ Ensure you have **Python 3.x** installed on your system.
 
 1. **Clone the repository:**
    ```bash
-   git clone [https://github.com/Abdull01h/ultea_ddos_tool.git](https://github.com/Abdull01h/ultea_ddos_tool.git)
-   cd ultea_ddos_tool
+   git clone https://github.com/Abdull01h/ultea_ddos_tool.git 
+   cd ddos_fathar_airon.py
 
 2. **Install necessary dependencies:**
 
