@@ -1,0 +1,6 @@
+# ABDULLAH-X V3.1 Dependencies
+requests
+fpdf
+
+pip install -r requirements.txt
+
